@@ -37,8 +37,12 @@ Like [my Robot](http://www.az2000.de/projects/robot2/),
 [Zelda](http://en.wikipedia.org/wiki/The_Legend_of_Zelda),
 [GTA 2](http://en.wikipedia.org/wiki/Grand_Theft_Auto_2).
 * Some sort of [Snake](http://en.wikipedia.org/wiki/Snake_(video_game)).
-* Some other simple puzzle game. Like [2048](http://gabrielecirulli.github.io/2048/), [Minesweeper](http://en.wikipedia.org/wiki/Minesweeper_(video_game)), etc.
-* Some other arcade game.
+* Some other simple puzzle / arcade game.
+Like [2048](http://gabrielecirulli.github.io/2048/),
+[Minesweeper](http://en.wikipedia.org/wiki/Minesweeper_(video_game)),
+[Frozen Bubble](http://www.frozen-bubble.org/),
+[Tetris](http://en.wikipedia.org/wiki/Tetris)
+etc.
 * Some card game.
 * Some turn-based game.
 
@@ -101,9 +105,13 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 * [Mari0](http://stabyourself.net/mari0/). 2D jump-n-run. Mario + Portal.
 * [ASCIIpOrtal](https://github.com/cymonsgames/ASCIIpOrtal). 2D side-based jump-n-run puzzle game. Portal.
 * [Enigma](http://www.nongnu.org/enigma/). Puzzle game.
+* [Craft](https://github.com/fogleman/Craft). Minecraft clone. Simple and small C code.
+* [zSILENCER](http://zsilencer.com/)
 * [OpenClonk](http://www.openclonk.org/)
+* [Mr. Rescue](http://tangramgames.dk/games/mrrescue/)
 * [The Battle for Wesnoth](http://www.wesnoth.org/). 2D turn-based strategy game. Long development history. Quite complex now.
 * [Xonotic](http://xonotic.org/) (earlier Nexuiz). 3D FPS. Big project, so you should bring at least medium experience already, but still, developing a new game mode or so might not be too hard.
+* [Destination Sol](https://sourceforge.net/projects/destinationsol/)
 
 See also these lists:
 
