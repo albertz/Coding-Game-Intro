@@ -61,14 +61,15 @@ This is the most famous and often used game library.
 Somewhat like SDL, but a bit less features and a bit less often used.
 * [PhoenixCore](https://github.com/jonparrott/PhoenixCore). 2D OpenGL based drawing library.
 * [NanoVG](https://github.com/memononen/nanovg). OpenGL based 2D vector drawing library.
-* [Angel2D](http://angel2d.com/). Big and powerful.
-* [Torque2D](http://www.garagegames.com/products/torque-2d). Big and powerful.
 * [skia - 2D Graphics Library](https://code.google.com/p/skia/). [Read also here.](http://www.phoronix.com/scan.php?page=news_item&px=OTM0Mw)
 * [Troll2D](https://code.google.com/p/troll2d/). Simple 2D game engine.
 * [SFML](http://sfml-dev.org/)
 * [Fast Light Toolkit (FLTK)](http://www.fltk.org/). Comes with many GUI widgets.
 * [librocket](http://librocket.com/)
 * [Picasso graphic](https://code.google.com/p/picasso-graphic/)
+* [Angel2D](http://angel2d.com/). Big and powerful. Maybe overkill.
+* [Torque2D](http://www.garagegames.com/products/torque-2d). Big and powerful. Maybe overkill.
+* [Lua](http://lua.org). Most famous embedded scripting language, very often used in games. Also very fast.
 * [LÖVE](http://love2d.org/).
 Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
 * [Qt](http://qt-project.org/).
