@@ -65,3 +65,9 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 
 * [SafeTheRock](https://sourceforge.net/projects/savetherock/).
 [Source code on GitHub](https://github.com/albertz/SaveTheRock).
+
+
+# Other tutorials
+
+* [Coding for absolute dummies (in German) (by me)](http://www.az2000.de/docs/coding_for_dummies/), tries to explain the very basics of programming, the idea of an algorithm and such
+* [Trivial C++ console catch-me game (in German) (by me)](http://www.az2000.de/projects/cpp_tut/). You develop a very simple catch-me-if-you-can C++ console sort-of game step by step.
