@@ -70,6 +70,8 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 * [Picasso graphic](https://code.google.com/p/picasso-graphic/)
 * [Angel2D](http://angel2d.com/). Big and powerful. Maybe overkill.
 * [Torque2D](http://www.garagegames.com/products/torque-2d). Big and powerful. Maybe overkill.
+* [Godot Engine](http://www.godotengine.org/). Maybe overkill.
+* [Ogre](http://www.ogre3d.org/). 3D graphics rendering engine. Probably overkill for the beginning.
 * [Lua](http://lua.org). Most famous embedded scripting language, very often used in games. Also very fast.
 * [LÖVE](http://love2d.org/).
 Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
