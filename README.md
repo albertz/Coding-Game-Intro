@@ -16,7 +16,7 @@ You can either join their team, or just take the code and extend it for yourself
 In any case, the project team people will most likely be very happy to introduce you to their code and help you to extend it by some fun idea of you.
 
 
-# Language
+# Programming language
 
 The programming language doesn't really matter that much.
 Don't be scared about C++. It isn't really that complicated.
@@ -35,6 +35,23 @@ Remember [Commander Keen](http://en.wikipedia.org/wiki/Commander_Keen)?
 * 2D top-down action / shooter / puzzle game.
 
 * Some sort of [Snake](http://en.wikipedia.org/wiki/Snake_(video_game)).
+
+* Some other simple puzzle / arcade game. Like [2048](http://gabrielecirulli.github.io/2048/), 
+
+
+# Useful libraries
+
+C++ comes with its own standard template library (STL). And you can use all of the C library.
+However, that only covers some standard structures (string, list, map, set, ...), file IO, and some more.
+Then, your OS usually comes with its own libraries, for doing anything more complex, like writing GUIs, graphics, sounds, etc.
+The OS libraries are usually OS dependent and Windows, Linux and MacOSX differ a lot from each other.
+If you want your game to be runable many different systems, there are many cross-platform libraries which you can use.
+Just avoid using anything from the OS libraries directly and use some cross-platform library instead to do graphics, sounds, networking, etc.
+
+Here are some useful ones:
+
+* [SDL](https://www.libsdl.org/). Very simple, has a lot of functionality, and supports many many platforms.
+* [GLFW](http://www.glfw.org/). Mostly for OpenGL.
 
 
 # Existing bigger sized games
