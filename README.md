@@ -50,7 +50,7 @@ The OS libraries are usually OS dependent and Windows, Linux and MacOSX differ a
 If you want your game to be runable many different systems, there are many cross-platform libraries which you can use.
 Just avoid using anything from the OS libraries directly and use some cross-platform library instead to do graphics, sounds, networking, etc.
 
-Here are some useful ones, for C++:
+Here are some useful ones, for C++.
 
 * [SDL](https://www.libsdl.org/).
 Very simple, has a lot of functionality, and supports many many platforms.
@@ -59,9 +59,16 @@ This is the most famous and often used game library.
 * [GLFW](http://www.glfw.org/). Mostly for OpenGL.
 * [Allegro](https://www.allegro.cc/).
 Somewhat like SDL, but a bit less features and a bit less often used.
+* [NanoVG](https://github.com/memononen/nanovg). OpenGL based 2D vector drawing library.
 * [Angel2D](http://angel2d.com/)
+* [Torque2D](http://www.garagegames.com/products/torque-2d). Big and powerful.
 * [skia - 2D Graphics Library](https://code.google.com/p/skia/). [Read also here.](http://www.phoronix.com/scan.php?page=news_item&px=OTM0Mw)
 * [Gosu](http://www.libgosu.org/). 2D game development library.
+* [Troll2D](https://code.google.com/p/troll2d/). Simple 2D game engine.
+* [SFML](http://sfml-dev.org/)
+* [Fast Light Toolkit (FLTK)](http://www.fltk.org/). Comes with many GUI widgets.
+* [librocket](http://librocket.com/)
+* [Picasso graphic](https://code.google.com/p/picasso-graphic/)
 * [LÖVE](http://love2d.org/).
 Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
 * [Qt](http://qt-project.org/).
@@ -85,3 +92,7 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 
 * [Coding for absolute dummies (in German) (by me)](http://www.az2000.de/docs/coding_for_dummies/), tries to explain the very basics of programming, the idea of an algorithm and such
 * [Trivial C++ console catch-me game (in German) (by me)](http://www.az2000.de/projects/cpp_tut/). You develop a very simple catch-me-if-you-can C++ console sort-of game step by step.
+* [OpenGL tutorial](http://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html)
+* [OpenGL / Game programming tutorials](http://nehe.gamedev.net/)
+* [40 game development tutorial overview](http://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
+* [SDL / Game Programming tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
