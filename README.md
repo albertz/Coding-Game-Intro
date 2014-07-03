@@ -32,11 +32,13 @@ And many people also have different opinions about it.
 * 2D side-based action jump-n-run / shooter game.
 Remember [Commander Keen](http://en.wikipedia.org/wiki/Commander_Keen)?
 
-* 2D top-down action / shooter / puzzle game.
+* 2D top-down action / shooter / puzzle game. Like [my Robot](http://www.az2000.de/projects/robot2/), [original Robot](http://www.game-of-robot.de/robot2.htm), [Zelda](http://en.wikipedia.org/wiki/The_Legend_of_Zelda), [GTA 2](http://en.wikipedia.org/wiki/Grand_Theft_Auto_2).
 
 * Some sort of [Snake](http://en.wikipedia.org/wiki/Snake_(video_game)).
 
-* Some other simple puzzle / arcade game. Like [2048](http://gabrielecirulli.github.io/2048/), 
+* Some other simple puzzle game. Like [2048](http://gabrielecirulli.github.io/2048/), [Minesweeper](http://en.wikipedia.org/wiki/Minesweeper_(video_game)), etc.
+
+* Some other arcade game.
 
 
 # Useful libraries
