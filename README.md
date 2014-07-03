@@ -103,6 +103,15 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 See also [this](http://en.wikipedia.org/wiki/List_of_open-source_video_games) list.
 
 
+# Artwork / graphics / sounds for your game
+
+You can create your own graphics and sounds.
+
+There are some useful existing resources you can use:
+
+* [OpenGameArt](http://opengameart.org/)
+
+
 # Other tutorials
 
 * [Coding for absolute dummies (in German) (by me)](http://www.az2000.de/docs/coding_for_dummies/), tries to explain the very basics of programming, the idea of an algorithm and such
