@@ -52,8 +52,13 @@ Just avoid using anything from the OS libraries directly and use some cross-plat
 
 Here are some useful ones:
 
-* [SDL](https://www.libsdl.org/). Very simple, has a lot of functionality, and supports many many platforms.
+* [SDL](https://www.libsdl.org/).
+Very simple, has a lot of functionality, and supports many many platforms.
+Somewhat low-level, 2D graphics, OpenGL, sound, input event, GamePad support, etc.
+This is the most famous and often used game library.
 * [GLFW](http://www.glfw.org/). Mostly for OpenGL.
+* [Allegro](http://alleg.sourceforge.net/).
+Somewhat like SDL, but a bit less features and a bit less often used.
 
 
 # Existing bigger sized games
