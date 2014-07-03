@@ -82,6 +82,7 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 * [Rainbow](https://bitbucket.org/tido/rainbow). Might be overkill.
 * [ClanLib SDK](http://www.clanlib.org/). OpenGL, GUI framework, network engine, physics, etc. Might be overkill.
 * [Lua](http://lua.org). Most famous embedded scripting language, very often used in games. Also very fast.
+* [Box2D](http://box2d.org/). 2D physics engine.
 * [OpenAL](http://en.wikipedia.org/wiki/OpenAL). For 3D sound.
 * [LÖVE](http://love2d.org/).
 Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
@@ -150,4 +151,5 @@ There are some useful existing resources you can use:
 # Forums / Other references
 
 * [TIGForums](http://forums.tigsource.com/)
+* [gamedev.net](http://www.gamedev.net/page/index.html)
 * [Game Programming Wiki](http://www.gpwiki.org/)
