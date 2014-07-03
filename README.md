@@ -58,9 +58,9 @@ Here are some useful ones, for C++.
 Very simple, has a lot of functionality, and supports many many platforms.
 Somewhat low-level, 2D graphics, OpenGL, sound, input event, GamePad support, etc.
 This is the most famous and often used game library.
-* [GLFW](http://www.glfw.org/). Mostly for OpenGL.
 * [Allegro](https://www.allegro.cc/).
 Somewhat like SDL, but a bit less features and a bit less often used.
+* [GLFW](http://www.glfw.org/), [GLEW](http://glew.sourceforge.net/). Mostly for OpenGL.
 * [PhoenixCore](https://github.com/jonparrott/PhoenixCore). 2D OpenGL based drawing library.
 * [NanoVG](https://github.com/memononen/nanovg). OpenGL based 2D vector drawing library.
 * [skia - 2D Graphics Library](https://code.google.com/p/skia/). [Read also here.](http://www.phoronix.com/scan.php?page=news_item&px=OTM0Mw)
@@ -73,7 +73,11 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 * [Torque2D](http://www.garagegames.com/products/torque-2d). Big and powerful. Maybe overkill.
 * [Godot Engine](http://www.godotengine.org/). Maybe overkill.
 * [Ogre](http://www.ogre3d.org/). 3D graphics rendering engine. Probably overkill for the beginning.
+* [Proton SDK](http://www.rtsoft.com/wiki/doku.php?id=proton). Might be overkill.
+* [Rainbow](https://bitbucket.org/tido/rainbow). Might be overkill.
+* [ClanLib SDK](http://www.clanlib.org/). OpenGL, GUI framework, network engine, physics, etc. Might be overkill.
 * [Lua](http://lua.org). Most famous embedded scripting language, very often used in games. Also very fast.
+* [OpenAL](http://en.wikipedia.org/wiki/OpenAL). For 3D sound.
 * [LÖVE](http://love2d.org/).
 Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
 * [Qt](http://qt-project.org/).
@@ -103,13 +107,17 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 See also [this](http://en.wikipedia.org/wiki/List_of_open-source_video_games) list.
 
 
-# Artwork / graphics / sounds for your game
+# Assets / artwork / graphics / sounds for your game
 
 You can create your own graphics and sounds.
 
 There are some useful existing resources you can use:
 
-* [OpenGameArt](http://opengameart.org/)
+* [OpenGameArt.org](http://opengameart.org/).
+[And this.](http://lpc.opengameart.org/)
+[See also.](https://news.ycombinator.com/item?id=7890901)
+* [Freesound.org](http://www.freesound.org/)
+* [Glitch the game](http://www.glitchthegame.com/public-domain-game-art/)
 
 
 # Other tutorials
