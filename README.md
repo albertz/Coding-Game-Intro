@@ -88,16 +88,28 @@ However, in the application development world, this is probably the most importa
 [Read here for more.](http://www.openlierox.net/wiki/index.php/Learning_to_code)
 And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_source_code) is probably a good guideline.
 [Here is the source code on GitHub.](https://github.com/albertz/openlierox)
+* [Commander Genius](http://clonekeenplus.sourceforge.net/). Commander Keen compatible clone, i.e. 2D side-based jump-n-run.
 * [SafeTheRock](https://sourceforge.net/projects/savetherock/).
 [Source code on GitHub](https://github.com/albertz/SaveTheRock).
+* [Teeworlds](https://www.teeworlds.com/). 2D side-based shooter, similar to OpenLieroX but aiming is with mouse.
+* [Secret Maryo](http://secretmaryo.org/) and [SuperTux](http://supertux.lethargik.org/). 2D jump-n-runs. Mario.
+* [Mari0](http://stabyourself.net/mari0/). 2D jump-n-run. Mario + Portal.
+* [ASCIIpOrtal](https://github.com/cymonsgames/ASCIIpOrtal). 2D side-based jump-n-run puzzle game. Portal.
+* [Enigma](http://www.nongnu.org/enigma/). Puzzle game.
+* [OpenClonk](http://www.openclonk.org/)
+* [The Battle for Wesnoth](http://www.wesnoth.org/). 2D turn-based strategy game. Long development history. Quite complex now.
+* [Xonotic](http://xonotic.org/) (earlier Nexuiz). 3D FPS. Big project, so you should bring at least medium experience already, but still, developing a new game mode or so might not be too hard.
+
+See also [this](http://en.wikipedia.org/wiki/List_of_open-source_video_games) list.
 
 
 # Other tutorials
 
 * [Coding for absolute dummies (in German) (by me)](http://www.az2000.de/docs/coding_for_dummies/), tries to explain the very basics of programming, the idea of an algorithm and such
 * [Trivial C++ console catch-me game (in German) (by me)](http://www.az2000.de/projects/cpp_tut/). You develop a very simple catch-me-if-you-can C++ console sort-of game step by step.
-* [OpenGL Programming Wikibooks](http://en.wikibooks.org/wiki/OpenGL_Programming)
 * [40 game development tutorial overview](http://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
+* [Game Programming in C and C++](http://www.cprogramming.com/game-programming.html)
 * [SDL / Game Programming tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
+* [OpenGL Programming Wikibooks](http://en.wikibooks.org/wiki/OpenGL_Programming)
 * [OpenGL / Game programming tutorials](http://nehe.gamedev.net/)
 * [OpenGL tutorial](http://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html)
