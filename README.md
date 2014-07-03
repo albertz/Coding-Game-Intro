@@ -39,7 +39,8 @@ Like [my Robot](http://www.az2000.de/projects/robot2/),
 * Some sort of [Snake](http://en.wikipedia.org/wiki/Snake_(video_game)).
 * Some other simple puzzle game. Like [2048](http://gabrielecirulli.github.io/2048/), [Minesweeper](http://en.wikipedia.org/wiki/Minesweeper_(video_game)), etc.
 * Some other arcade game.
-
+* Some card game.
+* Some turn-based game.
 
 
 # Useful libraries
