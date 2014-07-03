@@ -91,7 +91,8 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 
 * [Coding for absolute dummies (in German) (by me)](http://www.az2000.de/docs/coding_for_dummies/), tries to explain the very basics of programming, the idea of an algorithm and such
 * [Trivial C++ console catch-me game (in German) (by me)](http://www.az2000.de/projects/cpp_tut/). You develop a very simple catch-me-if-you-can C++ console sort-of game step by step.
-* [OpenGL tutorial](http://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html)
-* [OpenGL / Game programming tutorials](http://nehe.gamedev.net/)
+* [OpenGL Programming Wikibooks](http://en.wikibooks.org/wiki/OpenGL_Programming)
 * [40 game development tutorial overview](http://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
 * [SDL / Game Programming tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
+* [OpenGL / Game programming tutorials](http://nehe.gamedev.net/)
+* [OpenGL tutorial](http://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html)
