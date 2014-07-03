@@ -76,7 +76,7 @@ You probably don't need/want that for a game.
 However, in the application development world, this is probably the most important library.
 
 
-# Existing bigger sized games
+# Existing Open Source games as a good project base
 
 * [OpenLieroX](http://openlierox.net), my own game. 2D side-based shooter.
 [Read here for more.](http://www.openlierox.net/wiki/index.php/Learning_to_code)
