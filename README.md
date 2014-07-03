@@ -59,6 +59,7 @@ This is the most famous and often used game library.
 * [GLFW](http://www.glfw.org/). Mostly for OpenGL.
 * [Allegro](https://www.allegro.cc/).
 Somewhat like SDL, but a bit less features and a bit less often used.
+* [PhoenixCore](https://github.com/jonparrott/PhoenixCore). 2D OpenGL based drawing library.
 * [NanoVG](https://github.com/memononen/nanovg). OpenGL based 2D vector drawing library.
 * [Angel2D](http://angel2d.com/). Big and powerful.
 * [Torque2D](http://www.garagegames.com/products/torque-2d). Big and powerful.
