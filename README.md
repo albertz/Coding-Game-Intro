@@ -50,15 +50,24 @@ The OS libraries are usually OS dependent and Windows, Linux and MacOSX differ a
 If you want your game to be runable many different systems, there are many cross-platform libraries which you can use.
 Just avoid using anything from the OS libraries directly and use some cross-platform library instead to do graphics, sounds, networking, etc.
 
-Here are some useful ones:
+Here are some useful ones, for C++:
 
 * [SDL](https://www.libsdl.org/).
 Very simple, has a lot of functionality, and supports many many platforms.
 Somewhat low-level, 2D graphics, OpenGL, sound, input event, GamePad support, etc.
 This is the most famous and often used game library.
 * [GLFW](http://www.glfw.org/). Mostly for OpenGL.
-* [Allegro](http://alleg.sourceforge.net/).
+* [Allegro](https://www.allegro.cc/).
 Somewhat like SDL, but a bit less features and a bit less often used.
+* [Angel2D](http://angel2d.com/)
+* [skia - 2D Graphics Library](https://code.google.com/p/skia/). [Read also here.](http://www.phoronix.com/scan.php?page=news_item&px=OTM0Mw)
+* [Gosu](http://www.libgosu.org/). 2D game development library.
+* [LÖVE](http://love2d.org/).
+Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
+* [Qt](http://qt-project.org/).
+This is more for standard GUI application development, not so much for games.
+You probably don't need/want that for a game.
+However, in the application development world, this is probably the most important library.
 
 
 # Existing bigger sized games
