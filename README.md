@@ -16,6 +16,17 @@ You can either join their team, or just take the code and extend it for yourself
 In any case, the project team people will most likely be very happy to introduce you to their code and help you to extend it by some fun idea of you.
 
 
+# Language
+
+The programming language doesn't really matter that much.
+Don't be scared about C++. It isn't really that complicated.
+That's what most games use, and that's also what we mostly use here.
+Python is of course also a very good starting language.
+But this tutorial here is not about a programming language comparison.
+You will find many such comparisons via Google.
+And many people also have different opinions about it.
+
+
 # Some simple game ideas
 
 * 2D side-based action jump-n-run / shooter game.
