@@ -69,6 +69,7 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 * [Fast Light Toolkit (FLTK)](http://www.fltk.org/). Comes with many GUI widgets.
 * [librocket](http://librocket.com/)
 * [Picasso graphic](https://code.google.com/p/picasso-graphic/)
+* [Polycode](http://polycode.org/). OpenGL, with Lua scripting.
 * [Angel2D](http://angel2d.com/). Big and powerful. Maybe overkill.
 * [Torque2D](http://www.garagegames.com/products/torque-2d). Big and powerful. Maybe overkill.
 * [Godot Engine](http://www.godotengine.org/). Maybe overkill.
@@ -104,7 +105,10 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 * [The Battle for Wesnoth](http://www.wesnoth.org/). 2D turn-based strategy game. Long development history. Quite complex now.
 * [Xonotic](http://xonotic.org/) (earlier Nexuiz). 3D FPS. Big project, so you should bring at least medium experience already, but still, developing a new game mode or so might not be too hard.
 
-See also [this](http://en.wikipedia.org/wiki/List_of_open-source_video_games) list.
+See also these lists:
+
+* [Wikipedia](http://en.wikipedia.org/wiki/List_of_open-source_video_games)
+* [LGDB](http://www.lgdb.org/games?sort_by=created&taxonomy_vocabulary_3_tid=All&taxonomy_vocabulary_5_tid=All&taxonomy_vocabulary_7_tid=All&taxonomy_vocabulary_6_tid=All&taxonomy_vocabulary_14_tid=All&taxonomy_vocabulary_9_tid=All&taxonomy_vocabulary_34_tid=All&taxonomy_vocabulary_16_tid=87&taxonomy_vocabulary_12_tid=39)
 
 
 # Assets / artwork / graphics / sounds for your game
@@ -118,6 +122,7 @@ There are some useful existing resources you can use:
 [See also.](https://news.ycombinator.com/item?id=7890901)
 * [Freesound.org](http://www.freesound.org/)
 * [Glitch the game](http://www.glitchthegame.com/public-domain-game-art/)
+* [Oddball's small offerings](http://forums.tigsource.com/index.php?topic=8834.05). Font, characters, tiles, items.
 
 
 # Other tutorials
@@ -130,5 +135,11 @@ There are some useful existing resources you can use:
 * [OpenGL Programming Wikibooks](http://en.wikibooks.org/wiki/OpenGL_Programming)
 * [OpenGL / Game programming tutorials](http://nehe.gamedev.net/)
 * [OpenGL tutorial](http://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html)
+* [Aron's SDL tutorials](http://aaroncox.net/tutorials/arcade/index.html)
+* [GameDevGeek](http://gamedevgeek.com/tutorials/)
 
-See also [here](http://gamedevgeek.com/tutorials/).
+
+# Forums / Other references
+
+* [TIGForums](http://forums.tigsource.com/)
+* [Game Programming Wiki](http://www.gpwiki.org/)
