@@ -53,7 +53,7 @@ C++ comes with its own standard template library (STL). And you can use all of t
 However, that only covers some standard structures (string, list, map, set, ...), file IO, and some more.
 Then, your OS usually comes with its own libraries, for doing anything more complex, like writing GUIs, graphics, sounds, etc.
 The OS libraries are usually OS dependent and Windows, Linux and MacOSX differ a lot from each other.
-If you want your game to be runable many different systems, there are many cross-platform libraries which you can use.
+If you want your game to be runable on many different systems, there are many cross-platform libraries which you can use.
 Just avoid using anything from the OS libraries directly and use some cross-platform library instead to do graphics, sounds, networking, etc.
 
 Here are some useful ones, for C++.
