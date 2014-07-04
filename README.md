@@ -153,3 +153,15 @@ There are some useful existing resources you can use:
 * [TIGForums](http://forums.tigsource.com/)
 * [gamedev.net](http://www.gamedev.net/page/index.html)
 * [Game Programming Wiki](http://www.gpwiki.org/)
+
+
+# Game coding competitions
+
+There are a few game coding competitions, where you have to code a full small game in a very short time, like 24 hours, or 72 hours, or maybe a week.
+
+* [Ludum Dare](http://www.ludumdare.com/compo). This is probably the most famous competition. The creator of Minecraft, alias Notch, as often take part here.
+
+Some developers, such as Notch, sometimes make their coding screencast publicly available. This is often very entertaining and rewarding to watch. You will most probably learn a lot. And you will see how other developers are developing a small game in a short time.
+
+* Notch (Minecraft dev) [on Twitch](http://www.twitch.tv/notch), on [Twitter](https://twitter.com/notch)
+
