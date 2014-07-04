@@ -113,7 +113,7 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 * [Mari0](http://stabyourself.net/mari0/). 2D jump-n-run. Mario + Portal.
 * [ASCIIpOrtal](https://github.com/cymonsgames/ASCIIpOrtal). 2D side-based jump-n-run puzzle game. Portal.
 * [Enigma](http://www.nongnu.org/enigma/). Puzzle game.
-* [Craft](https://github.com/fogleman/Craft). Minecraft clone. Simple and small C code.
+* [Craft](https://github.com/fogleman/Craft). Minecraft clone. Simple and small C code base.
 * [zSILENCER](http://zsilencer.com/)
 * [OpenClonk](http://www.openclonk.org/)
 * [Mr. Rescue](http://tangramgames.dk/games/mrrescue/)
