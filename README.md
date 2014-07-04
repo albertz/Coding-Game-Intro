@@ -160,8 +160,12 @@ There are some useful existing resources you can use:
 There are a few game coding competitions, where you have to code a full small game in a very short time, like 24 hours, or 72 hours, or maybe a week.
 
 * [Ludum Dare](http://www.ludumdare.com/compo). This is probably the most famous competition. The creator of Minecraft, alias Notch, as often take part here.
+* [more on Wikipedia](http://en.wikipedia.org/wiki/Game_jam)
 
 Some developers, such as Notch, sometimes make their coding screencast publicly available. This is often very entertaining and rewarding to watch. You will most probably learn a lot. And you will see how other developers are developing a small game in a short time.
 
-* Notch (Minecraft dev) [on Twitch](http://www.twitch.tv/notch), on [Twitter](https://twitter.com/notch)
+* Notch (Minecraft dev):
+[Twitch](http://www.twitch.tv/notch),
+[YouTube](https://www.youtube.com/results?search_query=notch+coding),
+[Twitter](https://twitter.com/notch)
 
