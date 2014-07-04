@@ -64,6 +64,7 @@ Somewhat low-level, 2D graphics, OpenGL, sound, input event, GamePad support, et
 This is the most famous and often used game library.
 * [Allegro](https://www.allegro.cc/).
 Somewhat like SDL, but a bit less features and a bit less often used.
+It's slightly more high level than SDL.
 * [GLFW](http://www.glfw.org/), [GLEW](http://glew.sourceforge.net/). Mostly for OpenGL.
 * [PhoenixCore](https://github.com/jonparrott/PhoenixCore). 2D OpenGL based drawing library.
 * [NanoVG](https://github.com/memononen/nanovg). OpenGL based 2D vector drawing library.
