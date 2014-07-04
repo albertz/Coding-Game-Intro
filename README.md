@@ -152,6 +152,7 @@ There are some useful existing resources you can use:
 * [OpenGL tutorial](http://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html)
 * [Aron's SDL tutorials](http://aaroncox.net/tutorials/arcade/index.html)
 * [GameDevGeek](http://gamedevgeek.com/tutorials/)
+* [Game from scratch in C++ and SFML](http://www.gamefromscratch.com/page/Game-From-Scratch-CPP-Edition.aspx)
 
 
 # Forums / Other references
