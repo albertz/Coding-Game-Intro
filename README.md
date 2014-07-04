@@ -72,7 +72,7 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 * [SFML](http://sfml-dev.org/). Multimedia library, system, window, 2D graphics, audio, network.
 * [Fast Light Toolkit (FLTK)](http://www.fltk.org/). Comes with many GUI widgets.
 * [librocket](http://librocket.com/)
-* [Picasso graphic](https://code.google.com/p/picasso-graphic/)
+* [Picasso graphic](https://code.google.com/p/picasso-graphic/) (2013)
 * [Polycode](http://polycode.org/). OpenGL, with Lua scripting.
 * [Angel2D](http://angel2d.com/). Big and powerful. Maybe overkill.
 * [Torque2D](http://www.garagegames.com/products/torque-2d). Big and powerful. Maybe overkill.
