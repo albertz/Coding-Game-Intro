@@ -165,6 +165,7 @@ There are a few game coding competitions, where you have to code a full small ga
 
 * [Ludum Dare](http://www.ludumdare.com/compo). This is probably the most famous competition. The creator of Minecraft, alias Notch, as often take part here.
 * [more on Wikipedia](http://en.wikipedia.org/wiki/Game_jam)
+* [How to get the most out of a Game Jam](http://gamedevelopment.tutsplus.com/articles/how-to-get-the-most-out-of-a-game-jam--gamedev-437)
 
 Some developers, such as Notch, sometimes make their coding screencast publicly available. This is often very entertaining and rewarding to watch. You will most probably learn a lot. And you will see how other developers are developing a small game in a short time.
 
