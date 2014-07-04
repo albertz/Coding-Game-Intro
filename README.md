@@ -125,6 +125,7 @@ See also these lists:
 
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_open-source_video_games)
 * [LGDB](http://www.lgdb.org/games?sort_by=created&taxonomy_vocabulary_3_tid=All&taxonomy_vocabulary_5_tid=All&taxonomy_vocabulary_7_tid=All&taxonomy_vocabulary_6_tid=All&taxonomy_vocabulary_14_tid=All&taxonomy_vocabulary_9_tid=All&taxonomy_vocabulary_34_tid=All&taxonomy_vocabulary_16_tid=87&taxonomy_vocabulary_12_tid=39)
+* [Free Gamer](http://freegamer.blogspot.de/)
 
 
 # Assets / artwork / graphics / sounds for your game
