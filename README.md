@@ -88,6 +88,8 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
 [Examples](http://www.love2d.org/wiki/Category:Games),
 [more examples](https://github.com/miko/Love2d-samples).
+Löve itself might be a good base for a C++ framework, too.
+It's lacking a networking engine.
 * [Qt](http://qt-project.org/).
 This is more for standard GUI application development, not so much for games.
 You probably don't need/want that for a game.
