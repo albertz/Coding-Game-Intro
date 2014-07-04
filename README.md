@@ -68,7 +68,7 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 * [PhoenixCore](https://github.com/jonparrott/PhoenixCore). 2D OpenGL based drawing library.
 * [NanoVG](https://github.com/memononen/nanovg). OpenGL based 2D vector drawing library.
 * [skia - 2D Graphics Library](https://code.google.com/p/skia/). [Read also here.](http://www.phoronix.com/scan.php?page=news_item&px=OTM0Mw)
-* [Troll2D](https://code.google.com/p/troll2d/). Simple 2D game engine.
+* [Troll2D](https://code.google.com/p/troll2d/) (2008). Simple 2D game engine.
 * [SFML](http://sfml-dev.org/)
 * [Fast Light Toolkit (FLTK)](http://www.fltk.org/). Comes with many GUI widgets.
 * [librocket](http://librocket.com/)
