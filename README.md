@@ -69,7 +69,7 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 * [NanoVG](https://github.com/memononen/nanovg). OpenGL based 2D vector drawing library.
 * [skia - 2D Graphics Library](https://code.google.com/p/skia/). [Read also here.](http://www.phoronix.com/scan.php?page=news_item&px=OTM0Mw)
 * [Troll2D](https://code.google.com/p/troll2d/) (2008). Simple 2D game engine.
-* [SFML](http://sfml-dev.org/)
+* [SFML](http://sfml-dev.org/). Multimedia library, system, window, 2D graphics, audio, network.
 * [Fast Light Toolkit (FLTK)](http://www.fltk.org/). Comes with many GUI widgets.
 * [librocket](http://librocket.com/)
 * [Picasso graphic](https://code.google.com/p/picasso-graphic/)
