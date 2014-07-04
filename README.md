@@ -86,7 +86,8 @@ Somewhat like SDL, but a bit less features and a bit less often used.
 * [OpenAL](http://en.wikipedia.org/wiki/OpenAL). For 3D sound.
 * [LÖVE](http://love2d.org/).
 Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
-[Examples](http://www.love2d.org/wiki/Category:Games)
+[Examples](http://www.love2d.org/wiki/Category:Games),
+[more examples](https://github.com/miko/Love2d-samples).
 * [Qt](http://qt-project.org/).
 This is more for standard GUI application development, not so much for games.
 You probably don't need/want that for a game.
