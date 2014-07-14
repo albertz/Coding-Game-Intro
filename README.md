@@ -97,6 +97,9 @@ There are even [many extension libraries](http://www.love2d.org/wiki/Category:Li
 This is more for standard GUI application development, not so much for games.
 You probably don't need/want that for a game.
 However, in the application development world, this is probably the most important library.
+* [EntityX](https://github.com/alecthomas/entityx).
+Fast, type-safe C++ Entity Component System.
+Article '[Evolve Your Hierarchy](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)' covering the theory of Entity Component Systems (ECS).
 
 
 # Existing Open Source games as a good project base
@@ -210,4 +213,6 @@ C++11, SFML, [custom framework SSV](https://github.com/SuperV1234?tab=repositori
 C++11, SFML. [Code on GitHub](https://github.com/ace13/LD29).
 * [Ludum Dare 28, BlockDodger](http://jibransyed.wordpress.com/2013/12/16/blockdodger-my-second-ludum-dare-post-mortem/).
 C++, SDL, OpenGL, GLEW, GLM, FreeImage.
+* [Ludum Dare 28, incomplete source on GitHub](https://github.com/hovatterz/Ludum-Dare-28).
+C++, Lua, EntityX.
 
