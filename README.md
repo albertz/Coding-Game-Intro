@@ -137,6 +137,7 @@ Some useful tools:
 
 * [sfxr](http://www.drpetter.se/project_sfxr.html) for creating sounds.
 [bfxr (Web version)](http://www.bfxr.net/).
+* [SunVox](http://www.warmplace.ru/soft/sunvox/) for sound
 * [LMMS](http://lmms.sourceforge.net/) for creating music.
 * [SoundHelix](http://www.soundhelix.com/) for algorithmic random music.
 * [Gimp](http://www.gimp.org/) for graphics. Might be too powerful, though, because most likely, you just want to create pixel graphics.
@@ -209,5 +210,4 @@ C++11, SFML, [custom framework SSV](https://github.com/SuperV1234?tab=repositori
 C++11, SFML. [Code on GitHub](https://github.com/ace13/LD29).
 * [Ludum Dare 28, BlockDodger](http://jibransyed.wordpress.com/2013/12/16/blockdodger-my-second-ludum-dare-post-mortem/).
 C++, SDL, OpenGL, GLEW, GLM, FreeImage.
-
 
