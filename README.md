@@ -100,6 +100,9 @@ However, in the application development world, this is probably the most importa
 * [EntityX](https://github.com/alecthomas/entityx).
 Fast, type-safe C++ Entity Component System.
 Article '[Evolve Your Hierarchy](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)' covering the theory of Entity Component Systems (ECS).
+* [Protogame asset management](http://protogame.org/docs/asset_management.html).
+Protogame itself is Mongo-based.
+But it has some nice concepts.
 
 
 # Existing Open Source games as a good project base
