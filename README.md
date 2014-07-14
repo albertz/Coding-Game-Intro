@@ -133,6 +133,11 @@ See also these lists:
 # Assets / artwork / graphics / sounds for your game
 
 You can create your own graphics and sounds.
+Some useful tools:
+
+* [sfxr](http://www.drpetter.se/project_sfxr.html) for creating sounds.
+[bfxr (Web version)](http://www.bfxr.net/).
+* [LMMS](http://lmms.sourceforge.net/) for creating music.
 
 There are some useful existing resources you can use:
 
