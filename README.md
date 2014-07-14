@@ -188,3 +188,10 @@ Some developers, such as Notch, sometimes make their coding screencast publicly 
 [YouTube](https://www.youtube.com/results?search_query=notch+coding),
 [Twitter](https://twitter.com/notch)
 
+Many developers write some post mortem about their development during such competition.
+This is interesting because it shows you what tools to use to develop a fun game in a short time period.
+
+* [Ludum Dare 27, 10corp](http://www.ludumdare.com/compo/2013/08/26/postmortem-10corp/).
+C++11, SFML, [custom framework SSV](https://github.com/SuperV1234?tab=repositories).
+
+
