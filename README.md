@@ -138,6 +138,7 @@ Some useful tools:
 * [sfxr](http://www.drpetter.se/project_sfxr.html) for creating sounds.
 [bfxr (Web version)](http://www.bfxr.net/).
 * [LMMS](http://lmms.sourceforge.net/) for creating music.
+* Gimp for graphics. Might be too powerful, though, because most likely, you just want to create pixel graphics.
 
 There are some useful existing resources you can use:
 
