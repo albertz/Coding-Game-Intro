@@ -156,6 +156,7 @@ animated sprite editor & pixel art tool.
 Seems to have become comercial now.
 * [Tiled map editor](http://www.mapeditor.org/)
 * [Tile studio](http://tilestudio.sourceforge.net/)
+* [Toast Editor](http://toastedware.com/?page_id=190), web-based level editor
 * [Overview for Pixel Art Programs](http://forums.gnomoria.com/index.php?topic=4508.0)
 
 There are some useful existing resources you can use:
