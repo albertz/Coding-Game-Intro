@@ -141,6 +141,8 @@ Some useful tools:
 * [SoundHelix](http://www.soundhelix.com/) for algorithmic random music.
 * Gimp for graphics. Might be too powerful, though, because most likely, you just want to create pixel graphics.
 * [GrafX2](http://pulkomandy.tk/projects/GrafX2) ([old homepage](https://code.google.com/p/grafx2/)), bitmap paint program
+* [Pixel](http://www.kanzelsberger.com/pixel/) image editor
+* [MyPaint](http://mypaint.intilinux.com/) graphics application
 * [Tiled map editor](http://www.mapeditor.org/)
 * [Tile studio](http://tilestudio.sourceforge.net/)
 * [Overview for Pixel Art Programs](http://forums.gnomoria.com/index.php?topic=4508.0)
