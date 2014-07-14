@@ -139,7 +139,7 @@ Some useful tools:
 [bfxr (Web version)](http://www.bfxr.net/).
 * [LMMS](http://lmms.sourceforge.net/) for creating music.
 * [SoundHelix](http://www.soundhelix.com/) for algorithmic random music.
-* Gimp for graphics. Might be too powerful, though, because most likely, you just want to create pixel graphics.
+* [Gimp](http://www.gimp.org/) for graphics. Might be too powerful, though, because most likely, you just want to create pixel graphics.
 * [GrafX2](http://pulkomandy.tk/projects/GrafX2) ([old homepage](https://code.google.com/p/grafx2/)), bitmap paint program
 * [Pixel](http://www.kanzelsberger.com/pixel/) image editor
 * [MyPaint](http://mypaint.intilinux.com/) graphics application
