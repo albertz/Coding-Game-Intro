@@ -143,6 +143,10 @@ Some useful tools:
 * [GrafX2](http://pulkomandy.tk/projects/GrafX2) ([old homepage](https://code.google.com/p/grafx2/)), bitmap paint program
 * [Pixel](http://www.kanzelsberger.com/pixel/) image editor
 * [MyPaint](http://mypaint.intilinux.com/) graphics application
+* [Pinta](http://pinta-project.com/), drawing/editing program modeled after [Paint.NET](http://getpaint.net/).
+* [Aseprite](http://www.aseprite.org/) ([GitHub](https://github.com/aseprite/aseprite)),
+animated sprite editor & pixel art tool.
+Seems to have become comercial now.
 * [Tiled map editor](http://www.mapeditor.org/)
 * [Tile studio](http://tilestudio.sourceforge.net/)
 * [Overview for Pixel Art Programs](http://forums.gnomoria.com/index.php?topic=4508.0)
