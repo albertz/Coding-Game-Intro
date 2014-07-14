@@ -139,6 +139,8 @@ There are some useful existing resources you can use:
 * [OpenGameArt.org](http://opengameart.org/).
 [And this.](http://lpc.opengameart.org/)
 [See also.](https://news.ycombinator.com/item?id=7890901)
+[Nice one](http://opengameart.org/content/castle-tiles-for-rpgs),
+[some more](http://forums.themanaworld.org/viewtopic.php?f=8&t=14884&sid=4695e444f4bc4cb59fccc765dc79f68f&start=75).
 * [Freesound.org](http://www.freesound.org/)
 * [Glitch the game](http://www.glitchthegame.com/public-domain-game-art/)
 * [Oddball's small offerings](http://forums.tigsource.com/index.php?topic=8834.05). Font, characters, tiles, items.
