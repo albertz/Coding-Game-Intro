@@ -197,5 +197,7 @@ This is interesting because it shows you what tools to use to develop a fun game
 C++11, SFML, [custom framework SSV](https://github.com/SuperV1234?tab=repositories).
 * [Ludum Dare 29, N.A.M.E.](http://www.ludumdare.com/compo/2014/05/18/n-a-m-e-a-very-late-post-mortem/).
 C++11, SFML. [Code on GitHub](https://github.com/ace13/LD29).
+* [Ludum Dare 28, BlockDodger](http://jibransyed.wordpress.com/2013/12/16/blockdodger-my-second-ludum-dare-post-mortem/).
+C++, SDL, OpenGL, GLEW, GLM, FreeImage.
 
 
