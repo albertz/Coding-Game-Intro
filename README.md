@@ -158,7 +158,8 @@ Seems to have become comercial now.
 * [Tile studio](http://tilestudio.sourceforge.net/)
 * [Toast Editor](http://toastedware.com/?page_id=190), web-based level editor
 * [Overview for Pixel Art Programs](http://forums.gnomoria.com/index.php?topic=4508.0)
-
+* [2D game art for programmers blog](http://2dgameartforprogrammers.blogspot.de/)
+ 
 There are some useful existing resources you can use:
 
 * [OpenGameArt.org](http://opengameart.org/).
