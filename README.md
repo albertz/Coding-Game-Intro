@@ -185,6 +185,7 @@ There are some useful existing resources you can use:
 * [Aron's SDL tutorials](http://aaroncox.net/tutorials/arcade/index.html)
 * [GameDevGeek](http://gamedevgeek.com/tutorials/)
 * [Game from scratch in C++ and SFML](http://www.gamefromscratch.com/page/Game-From-Scratch-CPP-Edition.aspx)
+* [What every programmer needs to know about networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/), [The Quake3 network model](http://fabiensanglard.net/quake3/network.php), [The Unreal networking architecture](http://udn.epicgames.com/Three/NetworkingOverview.html)
 
 
 # Forums / Other references
