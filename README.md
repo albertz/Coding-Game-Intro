@@ -70,7 +70,7 @@ It's slightly more high level than SDL.
 * [NanoVG](https://github.com/memononen/nanovg). OpenGL based 2D vector drawing library.
 * [skia - 2D Graphics Library](https://code.google.com/p/skia/). [Read also here.](http://www.phoronix.com/scan.php?page=news_item&px=OTM0Mw)
 * [Troll2D](https://code.google.com/p/troll2d/) (2008). Simple 2D game engine.
-* [SFML](http://sfml-dev.org/). Multimedia library, system, window, 2D graphics, audio, network.
+* [SFML](http://sfml-dev.org/). Multimedia library, system, window, 2D graphics, audio, network. [SFGUI](http://sfgui.sfml-dev.de/) or [TGUI](https://tgui.eu/) for GUI.
 * [Fast Light Toolkit (FLTK)](http://www.fltk.org/). Comes with many GUI widgets.
 * [librocket](http://librocket.com/)
 * [Picasso graphic](https://code.google.com/p/picasso-graphic/) (2013)
@@ -103,6 +103,20 @@ Article '[Evolve Your Hierarchy](http://cowboyprogramming.com/2007/01/05/evolve-
 * [Protogame asset management](http://protogame.org/docs/asset_management.html).
 Protogame itself is Mongo-based.
 But it has some nice concepts.
+* Some GUI frameworks:
+[CEGUI](http://cegui.org.uk/) (OpenGL, MIT license),
+[MyGUI](http://mygui.info/) (MIT license),
+[OtterUI](https://github.com/Twolewis/OtterUI),
+[Agar](http://libagar.org/),
+[OUI](https://bitbucket.org/duangle/oui-blendish/src),
+[Turbo Badger](https://github.com/fruxo/turbobadger),
+[blog post summary](http://www.fysx.org/2010/09/13/quest-for-a-gui/),
+[IMGUI](http://sol.gfxile.net/imgui/),
+[GLIMGUI](https://bitbucket.org/MartinFelis/glimgui),
+[GWEN](https://github.com/garrynewman/GWEN),
+[Guichan](https://gitorious.org/guichan)
+* [Cocos2D-x](http://www.cocos2d-x.org/), full framework.
+* [Gameplay3D](http://www.gameplay3d.org/), full framework.
 
 
 # Existing Open Source games as a good project base
