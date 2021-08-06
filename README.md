@@ -122,7 +122,10 @@ For Lua.
 Löve itself might be a good base for a C++ framework, too.
 There are even [many extension libraries](http://www.love2d.org/wiki/Category:Libraries).
 [Here are some supporting dev software.](http://www.love2d.org/wiki/Category:Software)
-
+* [Planimeter's Grid Engine](https://www.planimeter.org/grid-sdk/).
+For Lua.
+Based on Quakeworld architecture and comes with fully client-side predicted multiplayer
+([ref](https://news.ycombinator.com/item?id=28083193)).
 
 # Existing Open Source games as a good project base
 
