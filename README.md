@@ -58,6 +58,7 @@ Just avoid using anything from the OS libraries directly and use some cross-plat
 
 Here are some useful ones, for C++.
 
+* [Raylib](https://www.raylib.com/). Very simple, more recent.
 * [SDL](https://www.libsdl.org/).
 Very simple, has a lot of functionality, and supports many many platforms.
 Somewhat low-level, 2D graphics, OpenGL, sound, input event, GamePad support, etc.
@@ -82,17 +83,24 @@ It's slightly more high level than SDL.
 * [Proton SDK](http://www.rtsoft.com/wiki/doku.php?id=proton). Might be overkill.
 * [Rainbow](https://bitbucket.org/tido/rainbow). Might be overkill.
 * [ClanLib SDK](http://www.clanlib.org/). OpenGL, GUI framework, network engine, physics, etc. Might be overkill.
+* [openFrameworks](https://openframeworks.cc/)
 * [Lua](http://lua.org). Most famous embedded scripting language, very often used in games. Also very fast.
 * [Box2D](http://box2d.org/). 2D physics engine.
 * [OpenAL](http://en.wikipedia.org/wiki/OpenAL). For 3D sound.
+
+Other relevant non-C++ frameworks:
+
 * [LÖVE](http://love2d.org/).
-Doesn't really belong here because it is for writing the full game in Lua, however, this is still an interesting framework.
+For Lua.
 [Examples](http://www.love2d.org/wiki/Category:Games),
 [more examples](https://github.com/miko/Love2d-samples),
 [tutorials](http://www.love2d.org/wiki/Category:Tutorials).
 Löve itself might be a good base for a C++ framework, too.
 There are even [many extension libraries](http://www.love2d.org/wiki/Category:Libraries).
 [Here are some supporting dev software.](http://www.love2d.org/wiki/Category:Software)
+
+Other frameworks, not necessarily for games:
+
 * [Qt](http://qt-project.org/).
 This is more for standard GUI application development, not so much for games.
 You probably don't need/want that for a game.
