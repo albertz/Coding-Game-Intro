@@ -204,6 +204,7 @@ There are some useful existing resources you can use:
 
 # Forums / Other references
 
+* [my wiki on coding in general](https://github.com/albertz/wiki/blob/master/coding.md)
 * [TIGForums](http://forums.tigsource.com/)
 * [gamedev.net](http://www.gamedev.net/page/index.html)
 * [Game Programming Wiki](http://www.gpwiki.org/)
