@@ -87,20 +87,7 @@ It's slightly more high level than SDL.
 * [Lua](http://lua.org). Most famous embedded scripting language, very often used in games. Also very fast.
 * [Box2D](http://box2d.org/). 2D physics engine.
 * [OpenAL](http://en.wikipedia.org/wiki/OpenAL). For 3D sound.
-
-Other relevant non-C++ frameworks:
-
-* [LÖVE](http://love2d.org/).
-For Lua.
-[Examples](http://www.love2d.org/wiki/Category:Games),
-[more examples](https://github.com/miko/Love2d-samples),
-[tutorials](http://www.love2d.org/wiki/Category:Tutorials).
-Löve itself might be a good base for a C++ framework, too.
-There are even [many extension libraries](http://www.love2d.org/wiki/Category:Libraries).
-[Here are some supporting dev software.](http://www.love2d.org/wiki/Category:Software)
-
-Other frameworks, not necessarily for games:
-
+* [Gameplay3D](http://www.gameplay3d.org/), full framework.
 * [Qt](http://qt-project.org/).
 This is more for standard GUI application development, not so much for games.
 You probably don't need/want that for a game.
@@ -123,8 +110,17 @@ But it has some nice concepts.
 [GLIMGUI](https://bitbucket.org/MartinFelis/glimgui),
 [GWEN](https://github.com/garrynewman/GWEN),
 [Guichan](https://gitorious.org/guichan)
-* [Cocos2D-x](http://www.cocos2d-x.org/), full framework.
-* [Gameplay3D](http://www.gameplay3d.org/), full framework.
+
+Other relevant non-C++ frameworks:
+
+* [LÖVE](http://love2d.org/).
+For Lua.
+[Examples](http://www.love2d.org/wiki/Category:Games),
+[more examples](https://github.com/miko/Love2d-samples),
+[tutorials](http://www.love2d.org/wiki/Category:Tutorials).
+Löve itself might be a good base for a C++ framework, too.
+There are even [many extension libraries](http://www.love2d.org/wiki/Category:Libraries).
+[Here are some supporting dev software.](http://www.love2d.org/wiki/Category:Software)
 
 
 # Existing Open Source games as a good project base
