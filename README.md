@@ -148,6 +148,8 @@ And then, [this](http://www.openlierox.net/wiki/index.php/Contribute_to_the_sour
 * [The Battle for Wesnoth](http://www.wesnoth.org/). 2D turn-based strategy game. Long development history. Quite complex now.
 * [Xonotic](http://xonotic.org/) (earlier Nexuiz). 3D FPS. Big project, so you should bring at least medium experience already, but still, developing a new game mode or so might not be too hard.
 * [Destination Sol](https://sourceforge.net/projects/destinationsol/)
+* [space-shooter.c](https://github.com/tsherif/space-shooter.c). simple and pure C. also see [its architecture](https://github.com/tsherif/space-shooter.c/blob/master/ARCHITECTURE.md)
+* [pacman.c](https://github.com/floooh/pacman.c)
 
 See also these lists:
 
