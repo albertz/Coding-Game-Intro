@@ -127,6 +127,7 @@ For Lua.
 Based on Quakeworld architecture and comes with fully client-side predicted multiplayer
 ([ref](https://news.ycombinator.com/item?id=28083193)).
 
+
 # Existing Open Source games as a good project base
 
 * [OpenLieroX](http://openlierox.net), my own game. 2D side-based shooter.
@@ -210,6 +211,7 @@ There are some useful existing resources you can use:
 * [GameDevGeek](http://gamedevgeek.com/tutorials/)
 * [Game from scratch in C++ and SFML](http://www.gamefromscratch.com/page/Game-From-Scratch-CPP-Edition.aspx)
 * [What every programmer needs to know about networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/), [The Quake3 network model](http://fabiensanglard.net/quake3/network.php), [The Unreal networking architecture](http://udn.epicgames.com/Three/NetworkingOverview.html)
+* [Handmade Hero](https://handmadehero.org/). Screen recordings of the full development of a game, over 600 days.
 
 
 # Forums / Other references
