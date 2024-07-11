@@ -20,7 +20,7 @@ In any case, the project team people will most likely be very happy to introduce
 
 The programming language doesn't really matter that much.
 Don't be scared about C++. It isn't really that complicated.
-That's what most games use, and that's also what we mostly use here.
+Or maybe Rust, or Nim, or some of the other newer native languages.
 Python is of course also a very good starting language.
 But this tutorial here is not about a programming language comparison.
 You will find many such comparisons via Google.
@@ -126,6 +126,9 @@ There are even [many extension libraries](http://www.love2d.org/wiki/Category:Li
 For Lua.
 Based on Quakeworld architecture and comes with fully client-side predicted multiplayer
 ([ref](https://news.ycombinator.com/item?id=28083193)).
+* [Pyxel](https://github.com/kitao/pyxel) for Python
+* [Pygame](https://www.pygame.org/) for Python
+* [Arcade](https://api.arcade.academy/) for Python
 
 
 # Existing Open Source games as a good project base
