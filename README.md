@@ -127,7 +127,8 @@ For Lua.
 Based on Quakeworld architecture and comes with fully client-side predicted multiplayer
 ([ref](https://news.ycombinator.com/item?id=28083193)).
 * [Pyxel](https://github.com/kitao/pyxel) for Python
-* [Pygame](https://www.pygame.org/) for Python
+* [Pygame](https://www.pygame.org/) for Python.
+  Also see [pygame-web](https://pygame-web.github.io/), [pyscroll](https://github.com/bitcraft/pyscroll).
 * [Arcade](https://api.arcade.academy/) for Python
 
 
