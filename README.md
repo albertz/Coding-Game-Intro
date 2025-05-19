@@ -85,6 +85,8 @@ It's slightly more high level than SDL.
 * [Rainbow](https://bitbucket.org/tido/rainbow). Might be overkill.
 * [ClanLib SDK](http://www.clanlib.org/). OpenGL, GUI framework, network engine, physics, etc. Might be overkill.
 * [openFrameworks](https://openframeworks.cc/)
+* [bgfx](https://github.com/bkaradzic/bgfx). Cross-platform rendering library (3D graphics).
+* [Slang Shader Language](https://shader-slang.org/)
 * [Lua](http://lua.org). Most famous embedded scripting language, very often used in games. Also very fast.
 * [Box2D](http://box2d.org/). 2D physics engine.
 * [OpenAL](http://en.wikipedia.org/wiki/OpenAL). For 3D sound.
@@ -130,6 +132,7 @@ Based on Quakeworld architecture and comes with fully client-side predicted mult
 * [Pygame](https://www.pygame.org/) for Python.
   Also see [pygame-web](https://pygame-web.github.io/), [pyscroll](https://github.com/bitcraft/pyscroll).
 * [Arcade](https://api.arcade.academy/) for Python
+* [FNA](https://fna-xna.github.io/). Reimplementation of Microsoft XNA Game Studio 4.0 Refresh
 
 
 # Existing Open Source games as a good project base
